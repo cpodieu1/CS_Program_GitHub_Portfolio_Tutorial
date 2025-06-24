@@ -17,8 +17,8 @@ Over time, I’d like to deepen my use of **Test-Driven Development (TDD)**, emb
 
 ### What does it mean to be a good team member in software development?
 Being a good teammate means:
-- **Communicating openly**—sharing progress, risks, and questions early.  
-- **Respecting others’ time**—keeping stand-ups brief, reviewing pull requests promptly, and pairing when help is needed.  
-- **Collaborating generously**—offering to help unblock colleagues, contributing to collective code ownership, and creating clear documentation.  
-- **Owning quality**—writing clean, well-tested code and speaking up when you see architectural or process improvements.  
+- **Communicating openly** sharing progress, risks, and questions early.  
+- **Respecting others’ time** keeping stand-ups brief, reviewing pull requests promptly, and pairing when help is needed.  
+- **Collaborating generously** offering to help unblock colleagues, contributing to collective code ownership, and creating clear documentation.  
+- **Owning quality** writing clean, well-tested code and speaking up when you see architectural or process improvements.  
 A strong team member builds trust by being reliable, transparent, and always willing to learn from—and teach—others.
